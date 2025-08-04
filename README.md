@@ -4,7 +4,6 @@
 
 ## Overview of MOIRL 
 
-![model](./data/model.png)
 
 ### The repository is organized as follows
 
