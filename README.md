@@ -3,7 +3,7 @@
 ### Codes, datasets and appendix for BIBM-2025 paper "A Multi-Objective Inverse Reinforcement Learning-Driven Model for Therapeutic Peptide Generation"
 
 ## Overview of MOIRL 
-
+![model](./MOIRL.jpg)
 
 ### The repository is organized as follows
 
