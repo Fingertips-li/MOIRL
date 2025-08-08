@@ -8,7 +8,9 @@
 ### The repository is organized as follows
 
 - `data/` contains the datasets used in the MOIRL model;
-- `models/` contains the implementation of the MOIRL model;
+- `Env/` contains the environment of herapeutic peptide generation;
+- `Models/` contains the implementation of the RF model;
+- `Outputs/` contains the output peptide data , etc;
 - `modules/` contains the data processing and the sequence/structure encoders;
 - `utils/` contains the bio-function tools for embeddings and evaluation;
 ---
